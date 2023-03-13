@@ -1,0 +1,13 @@
+* Please select a pizza base:
+1: Classical
+2: Margarita
+3: Turkish Pizza
+4: Plain Pizza
+* Please select toppings:
+5: Olive
+6: Mushroom
+7: Goat Cheese
+8: Meat
+9: Onion
+10: Corn
+* Thank You!
